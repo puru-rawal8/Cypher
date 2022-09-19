@@ -3,27 +3,27 @@ A python3 based AI voice assistant, which will perform some functionalities foll
 
 Modules required:
 
-import pyttsx3  #pip install pyttsx3
+-import pyttsx3  #pip install pyttsx3
 
-import datetime
+-import datetime
 
-import speech_recognition as sr
+-import speech_recognition as sr
 
-import wikipedia
+-import wikipedia
 
-import smtplib
+-import smtplib
 
-import webbrowser as wb
+-import webbrowser as wb
 
-import os
+-import os
 
-import pyautogui
+-import pyautogui
 
-import psutil
+-import psutil
 
-import pyjokes
+-import pyjokes
 
-import requests, json
+-import requests, json
 
 
 ![outputdemo](https://user-images.githubusercontent.com/106296345/191102853-206fa4a8-711b-4cf8-aa9a-dc2b6aada6f1.png)
