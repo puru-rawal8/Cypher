@@ -28,7 +28,7 @@ Modules used 📥 :
 
 ----------------------------------------------------------------------------------------------------------
 
-This AI 🧬 can do:
+This AI 🧬 can perform mutliple functionalities by user's voice commands🗣:
 
 --it can tell you current time and date 📆⌚
 
