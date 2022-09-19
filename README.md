@@ -1,7 +1,8 @@
 # Cypher
+
 A python3 based AI voice assistant, which will perform some functionalities followed by user query.
 
-Modules used 📥:
+Modules used 📥 :
 
 --import pyttsx3  #pip install pyttsx3
 
@@ -37,7 +38,7 @@ This AI 🧬 can do:
 
 --it can create the reminders list 📜
 
---it can capture screen and save it to a directory in your system c💻
+--it can capture screen and save it to a directory in your system 💻
 
 --it can send emails 📧
 
