@@ -1,7 +1,7 @@
 # Cypher
 A python3 based AI voice assistant, which will perform some functionalities followed by user query.
 
-Modules used:
+Modules used 📥:
 
 --import pyttsx3  #pip install pyttsx3
 
@@ -27,28 +27,30 @@ Modules used:
 
 ----------------------------------------------------------------------------------------------------------
 
-This AI can do:
+This AI 🧬 can do:
 
---it can tell you current time and date,
+--it can tell you current time and date 📆⌚
 
---it can give current weather updates of a city,
+--it can give current weather updates of a city ⛈🌤🌨🌧🌡
 
---it can provide you with battery and cpu usage info,
+--it can provide you with battery and cpu usage info 🔋📈
 
---it can create the reminders list,
+--it can create the reminders list 📜
 
---it can capture screen and save it to a directory in your system,
+--it can capture screen and save it to a directory in your system c💻
 
---it can send emails,
+--it can send emails 📧
 
---it can shut down, logout or hibernate your system,
+--it can shut down, logout or hibernate your system 🔌
 
---it can open any website, on chrome web-browser,
+--it can open any website, on chrome web-browser 🔗
 
---it can search for information on wikipedia,
+--it can search for information on wikipedia 🔎
 
---it can also change it's voice from male to female and vice-versa
+--it can also change it's voice from male to female and vice-versa 🗣👥
 
 --And more things to come...
 
 ![outputdemo](https://user-images.githubusercontent.com/106296345/191102853-206fa4a8-711b-4cf8-aa9a-dc2b6aada6f1.png)
+
+If you liked it, feel free to leave a ⭐ on this repository.
