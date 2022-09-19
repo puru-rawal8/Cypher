@@ -1,6 +1,6 @@
 # Cypher
 
-A python3 based AI voice assistant, which will perform some functionalities followed by user query.
+A python3 based AI voice assistant, which cypher will perform some functionalities followed by user query.
 
 Modules used 📥 :
 
